@@ -2,7 +2,7 @@
 function App() {
   return (
     <>
-      Vite + React + React Router + Tanstack Query + shadcn 
+      Vite + React + React Router + Tanstack Query + Shadcn 
     </>
   )
 }
