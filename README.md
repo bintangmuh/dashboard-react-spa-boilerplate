@@ -14,7 +14,7 @@ This is a boilerplate for a Single Page Application (SPA) dashboard built with m
 
 ### Prerequisites
 
-- Node.js (v18 or higher)
+- Node.js (v20 or higher)
 - npm (or yarn)
 
 ### Installation
